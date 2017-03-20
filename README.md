@@ -7,5 +7,7 @@ CopyCat
 Deneme 5. satır
 
 public static void  functionB{
+}
 
+public static void  functionA{
 }
